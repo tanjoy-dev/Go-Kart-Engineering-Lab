@@ -1,0 +1,9 @@
+Parameter,Small_Kart_Value,Racing_Kart_Value,Units,Description
+Outer_Diameter_Do,180,210,mm,Full diameter of the disc
+Inner_Diameter_Di,130,150,mm,Diameter of the central mounting hole
+Thickness_t,3.5,4.5,mm,Width of the friction surface
+PCD_Bolt_Circle,60,80,mm,Pitch Circle Diameter for mounting bolts
+Bolt_Count,3,6,count,Number of mounting bolts
+Material_Density,7850,7200,kg/m3,Steel vs Grey Cast Iron density
+Effective_Radius_Re,77.5,90,mm,Distance from center to center of brake pad
+Material_Type,SS420,Grey Cast Iron,text,Common material grade

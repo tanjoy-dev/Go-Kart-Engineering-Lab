@@ -1,0 +1,14 @@
+Category,Sub_Type,Property,Value,Units,Material_Notes
+Axle,Solid_Standard,OD,30,mm,Mild Steel
+Axle,Solid_Standard,Yield_Strength,250,MPa,Low-cost hobby use
+Axle,M20_Racing,OD,50,mm,42CrMo4 Alloy
+Axle,M20_Racing,ID,46,mm,Wall Thickness 2mm
+Axle,M20_Racing,Stiffness,Medium,Text,Standard racing flex
+Axle,H30_Racing,OD,50,mm,Spring Steel
+Axle,H30_Racing,ID,47,mm,Wall Thickness 1.5mm (Hard/Stiff)
+Sprocket,219_Alu,Pitch,7.77,mm,High RPM Racing
+Sprocket,219_Alu,Teeth_Options,62-92,range,Precision tuning
+Sprocket,35_Steel,Pitch,9.52,mm,Heavy Duty / Industrial
+Sprocket,35_Steel,Teeth_Options,54-72,range,Durability focus
+Chassis,Standard,Weight,85,kg,Empty weight without driver
+Chassis,Lightweight,Weight,72,kg,Chromoly tubing
